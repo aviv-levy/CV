@@ -74,3 +74,200 @@ body{
     color:aqua;
     text-decoration: none;
 }
+
+#experience_plus_skilling
+{
+   background: white;
+    display: flex;
+    font-size: 19px;
+}
+#experience{
+  
+    color:#404040;
+    padding: 20px;
+   
+}
+#info{
+     display: flex;
+      font-size: 19px;
+}
+#info ul
+{
+    list-style: none;
+}
+
+#info ul:nth-child(1) p
+{
+    color:#00BFFF;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    font-weight: 600;
+    
+}
+#info ul:nth-child(2) p
+{
+    margin-bottom: 10px;
+    padding-top: 10px;
+font-weight: 600;
+}
+#info ul:nth-child(1) article
+{
+    color:#A9A9A9;
+padding-top: 0;
+ 
+    
+}
+#info ul:nth-child(2) article
+{
+    color:#A9A9A9;
+    margin-bottom: 10px;
+    padding-top: 10px;
+
+
+}
+#skills
+{
+    padding-left: 100px;
+}
+#pro_skills
+{
+    background-color:#00FFFF;
+
+}
+#display_pro_skills
+{
+        display: flex;
+}
+#pro_skills ul
+{
+     list-style: none;
+    padding:0px;
+}
+#pro_skills ul:nth-child(1) li
+{
+    padding-top: 50px;
+    margin-bottom: 10px;
+    font-weight: 600;
+ 
+    color:#404040;
+}
+#pro_skills ul:nth-child(2) li {
+    color: beige;
+    border-bottom: 10px solid black;
+}
+#per_skills
+{
+    background: #FFD700;
+    font-weight: 500;
+    
+}
+#per_skills ul
+{
+    list-style: none;
+    font-size: 20px;
+    padding-left: 0px;
+}
+#eduction
+{
+   background-color:#D3D3D3;  
+    display: grid;
+    color:#404040;
+    font-size: 19px;
+}
+#eduction_ul{
+     display: flex;
+      font-size: 19px;
+}
+#eduction_ul ul
+{
+    list-style: none;
+}
+
+#eduction_ul ul:nth-child(1) p
+{
+    color:#00BFFF;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    font-weight: 600;
+    
+}
+#eduction_ul ul:nth-child(2) p
+{
+    color:	black;
+    margin-bottom: 10px;
+    padding-top: 10px;
+font-weight: 600;
+}
+#eduction_ul ul:nth-child(1) article
+{
+    color:	 #A9A9A9;
+padding-top: 0;
+ 
+    
+}
+#eduction_ul:nth-child(2) article
+{
+    color:#A9A9A9;
+    margin-bottom: 10px;
+    padding-top: 10px;
+}
+#hobbies_and_language
+{
+    display: flex;
+    font-size: 19px;
+    
+}
+#h_info
+{
+    display: flex;
+    padding-right: 20px;
+    margin-right: 100px;
+    font-size: 25px;
+    color:#404040;
+}
+#h_info ul
+{
+    list-style: none;
+   display: flex;
+    justify-content: space-between;    
+}
+#h_info ul li
+{
+    padding-right: 20px;
+}
+
+#detailed_language
+{
+    background-color: #DCDCDC;
+
+}
+#display_language
+{
+        display: flex;
+}
+#language
+{
+   margin-left: auto;
+}
+#detailed_language
+{
+     list-style: none;
+    padding:0px;
+}
+#detailed_language ul li
+{
+    padding-top: 50px;
+    font-weight: 600;
+    color:white;
+}
+#display_language ul
+{
+    list-style: none;
+}
+
+.heads
+{
+    color:#404040;
+    font-size: 50px;
+}
+
