@@ -71,7 +71,7 @@ body{
     
 }
 #social-networks a{
-    color:aqua;
+    color:#a5a5a5;
     text-decoration: none;
 }
 
@@ -224,12 +224,13 @@ padding-top: 0;
     margin-right: 100px;
     font-size: 25px;
     color:#404040;
+    text-align: center;
 }
 #h_info ul
 {
     list-style: none;
    display: flex;
-    justify-content: space-between;    
+    justify-content: space-between;  
 }
 #h_info ul li
 {
